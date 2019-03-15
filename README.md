@@ -3,39 +3,39 @@
 ## 一、登录
 + 进入主界面之前需通过账号名登录。无需密码，在每次上链操作时都会需要输入密码。
 进入登录界面后，在输入框里输入账户名，点击“login in”。若账号存在，则跳转到主页面。若账号不存在，则会提示“账号不存在”
-![](https://github.com/disy2008/s1_manage20190315/raw/master/images/manage_001.png)
+![](https://github.com/disy2008/s1_manage20190315/raw/master/images/manage_001.jpg)
 
 ## 二、权限管理
 管理权限信息，权限角色包括JMN、SMN、WORKER。
 + 点击左侧的“权限管理”，可以看到权限列表
 + 点击上方的“添加”按钮，看到弹出框，输入需要新加的权限信息，点击“确定”，看到添加完成信息。等待操作上链后，刷新列表，即可看到新的权限项。
 + 点击权限列表右方的关闭按钮，等待操作上链后，刷新权限列表，即可看到权限状态更新
-![](https://github.com/disy2008/s1_manage20190315/raw/master/images/manage_002.png)
-![](https://github.com/disy2008/s1_manage20190315/raw/master/images/manage_003.png)
+![](https://github.com/disy2008/s1_manage20190315/raw/master/images/manage_002.jpg)
+![](https://github.com/disy2008/s1_manage20190315/raw/master/images/manage_003.jpg)
 
 ## 三、模板管理
 管理背书合约模板。背书合约模板可用于部署对应的背书合约实例到主链上，并关联背书合约和业务合约（若有业务合约）。
 + 点击左侧的“模板管理”，可以看到合约模板列表
 + 点击上方的“添加”按钮，看到弹出框，输入需要新加的合约模板信息，点击“确定”，看到添加完成信息。等待操作上链后，刷新合约模板列表，即可看到新的模板合约。
 + 点击合约模板列表右方的关闭按钮，等待操作上链后，刷新合约模板列表，即可看到合约模板状态更新
-![](https://github.com/disy2008/s1_manage20190315/raw/master/images/manage_004.png)
-![](https://github.com/disy2008/s1_manage20190315/raw/master/images/manage_005.png)
+![](https://github.com/disy2008/s1_manage20190315/raw/master/images/manage_004.jpg)
+![](https://github.com/disy2008/s1_manage20190315/raw/master/images/manage_005.jpg)
 
 ## 四、子链管理
 管理子链信息。
 + 点击左侧的“子链管理”，可以看到子链列表
 + 点击上方的“添加”按钮，看到弹出框，输入需要新加的子链信息，点击“确定”，看到添加完成信息。等待操作上链后，刷新子链列表，即可看到新的子链。
 + 点击子链列表右方的关闭按钮，等待操作上链后，刷新子链列表，即可看到子链状态更新
-![](https://github.com/disy2008/s1_manage20190315/raw/master/images/manage_006.png)
-![](https://github.com/disy2008/s1_manage20190315/raw/master/images/manage_007.png)
+![](https://github.com/disy2008/s1_manage20190315/raw/master/images/manage_006.jpg)
+![](https://github.com/disy2008/s1_manage20190315/raw/master/images/manage_007.jpg)
 
 ## 五、背书管理
 管理背书信息。每条子链对应了一个背书列表。
 + 点击左侧的“子链管理”，可以看到子链列表，点击子链项右侧的“合约”链接，页面跳转到背书列表
 + 点击上方的“添加”按钮，看到弹出框，输入需要新加的背书信息，点击“确定”，看到添加完成信息。等待操作上链后，刷新背书列表，即可看到新的背书信息。
 + 点击背书列表右方的关闭按钮，等待操作上链后，刷新背书列表，即可看到背书状态更新
-![](https://github.com/disy2008/s1_manage20190315/raw/master/images/manage_008.png)
-![](https://github.com/disy2008/s1_manage20190315/raw/master/images/manage_009.png)
+![](https://github.com/disy2008/s1_manage20190315/raw/master/images/manage_008.jpg)
+![](https://github.com/disy2008/s1_manage20190315/raw/master/images/manage_009.jpg)
 
 ## 六、关注
 管理关注信息。关注是指账号关注子链。
@@ -43,8 +43,8 @@
 + 点击上方的“添加”按钮，看到弹出框，输入需要新关注信息，点击“确定”，看到添加完成信息。等待操作上链后，刷新关注列表，即可看到新的关注信息。
 + 点击关注列表右方的关闭按钮，等待操作上链后，刷新关注列表，即可看到关注的状态更新
 + 在上方的搜索框中输入smn地址，点击“搜索”按钮，关注列表会刷新，显示该smn地址的所有关注项
-![](https://github.com/disy2008/s1_manage20190315/raw/master/images/manage_010.png)
-![](https://github.com/disy2008/s1_manage20190315/raw/master/images/manage_011.png)
+![](https://github.com/disy2008/s1_manage20190315/raw/master/images/manage_010.jpg)
+![](https://github.com/disy2008/s1_manage20190315/raw/master/images/manage_011.jpg)
 
 # 数据验证系统
 
@@ -53,9 +53,9 @@
 + 点击“请选择子链”的下拉框，点击需要查询的子链
 + 点击“请选择合约”的下拉框，点击需要查询的子链上的背书
 + 点击“搜索”按钮，则会显示该合约的数据列表
-![](https://github.com/disy2008/s1_manage20190315/raw/master/images/verify_001.png)
+![](https://github.com/disy2008/s1_manage20190315/raw/master/images/verify_001.jpg)
 
 ## 二、验证
 查看原始数据对应的背书数据。
 + 点击列表最右一列的“验证”按钮，则“背书合约数据”列会显示对应行的hash，若“原始数据”列和“背书合约数据”列的hash值一致，则显示验证成功。
-![](https://github.com/disy2008/s1_manage20190315/raw/master/images/verify_002.png)
+![](https://github.com/disy2008/s1_manage20190315/raw/master/images/verify_002.jpg)
