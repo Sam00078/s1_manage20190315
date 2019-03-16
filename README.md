@@ -53,9 +53,9 @@
 + 点击“请选择子链”的下拉框，点击需要查询的子链
 + 点击“请选择合约”的下拉框，点击需要查询的子链上的背书
 + 点击“搜索”按钮，则会显示该合约的数据列表
-![](https://github.com/disy2008/s1_manage20190315/raw/master/images/verify_001.jpg)
+![](https://github.com/disy2008/s1_manage20190315/raw/master/images/verify_001.png)
 
 ## 二、验证
 查看原始数据对应的背书数据。
 + 点击列表最右一列的“验证”按钮，则“背书合约数据”列会显示对应行的hash，若“原始数据”列和“背书合约数据”列的hash值一致，则显示验证成功。
-![](https://github.com/disy2008/s1_manage20190315/raw/master/images/verify_002.jpg)
+![](https://github.com/disy2008/s1_manage20190315/raw/master/images/verify_002.png)
